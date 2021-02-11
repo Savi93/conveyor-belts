@@ -10,3 +10,5 @@ In case of problem with any of the motor, all belts are stopped and the alarm li
 The reset button is supposed to reset the alarms and the machine internal state.
 
 ### Technologies used: IEC61131-3 (Ladder Diagram, Structured Text), CodeSys, PLC
+
+![Alt text](airport-2397034_960_720.jpg)

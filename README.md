@@ -9,4 +9,4 @@ When the machine is in operation, the L2 light must be constantly turned on.
 In case of problem with any of the motor, all belts are stopped and the alarm light L1 blinks. Also, when the emergency button is pressed, all the motors are stopped and L1 is turned on constantly. 
 The reset button is supposed to reset the alarms and the machine internal state.
 
-### Technologies used: IEC61131-3 (Ladder Diagram, Structured Text), CodeSys
+### Technologies used: IEC61131-3 (Ladder Diagram, Structured Text), CodeSys, PLC

@@ -11,4 +11,4 @@ The reset button is supposed to reset the alarms and the machine internal state.
 
 ### Technologies used: IEC61131-3 (Ladder Diagram, Structured Text), CodeSys, PLC
 
-![Alt text](airport-2397034_960_720.jpg)
+![Alt text](belektro-logo-gallery.jpg)

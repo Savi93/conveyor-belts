@@ -12,4 +12,4 @@ When the machine is in operation, the L2 light must be constantly turned on; in 
 
 ![Alt text](belektro-logo-gallery.jpg)
 
-!Alt text](Report/Images/Conveyor-belts.png)
+!Alt text](./Report/Images/Conveyor-belts.png)

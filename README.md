@@ -11,4 +11,4 @@ When the machine is in operation, the L2 light must be constantly turned on; in 
 ### Technologies used: IEC 61131-3 (Ladder Diagram, Structured Text), CodeSys, PLC
 
 ![Alt text](belektro-logo-gallery.jpg)
-![Alt text](/Report/Images/Conveyor-belts.png)
+![Alt text](/Report/Images/GUI.png)
